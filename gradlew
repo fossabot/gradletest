@@ -1,2 +1,5 @@
 #!/bin/bash
-sleep 120
+while :
+do
+	:
+done
